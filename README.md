@@ -13,13 +13,13 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ### GitHub Stats
-![ARYABOT's GitHub stats](https://github-readme-stats.vercel.app/api?username=BangsulBotz&show_icons=true&theme=radical)
+![ARYABOT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARYABOT's&show_icons=true&theme=radical)
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=BangsulBotz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ARYABOT's&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BangsulBotz&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARYABOT's&layout=compact&theme=radical)
 
 ---
 
