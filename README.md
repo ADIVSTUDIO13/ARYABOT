@@ -1,5 +1,5 @@
 <div align="center">
-   👋 Hi, I'm BangsulBotz!
+   👋 Hi, I'm ARYABOT!
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ### GitHub Stats
-![BangsulBotz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BangsulBotz&show_icons=true&theme=radical)
+![ARYABOT's GitHub stats](https://github-readme-stats.vercel.app/api?username=BangsulBotz&show_icons=true&theme=radical)
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=BangsulBotz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
